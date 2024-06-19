@@ -4526,6 +4526,24 @@
         ]
     },
     {
+        "id": "9160065ba1257f67",
+        "type": "function",
+        "z": "e0124708805f5d32",
+        "name": "function 6",
+        "func": "node.warn(\"integration test GITHUB\");\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 540,
+        "y": 420,
+        "wires": [
+            []
+        ]
+    },
+    {
         "id": "92ba863ce78d32bc",
         "type": "inject",
         "z": "9f9f048f5359ff58",
