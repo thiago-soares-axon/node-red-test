@@ -4530,7 +4530,7 @@
         "type": "function",
         "z": "e0124708805f5d32",
         "name": "function 6",
-        "func": "node.warn(\"integration test GITHUB\");\n\nreturn msg;",
+        "func": "node.warn(\"integration test GITHUB1\");\n\nreturn msg;",
         "outputs": 1,
         "timeout": 0,
         "noerr": 0,
